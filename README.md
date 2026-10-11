@@ -5,7 +5,7 @@ I use C99 POSIX200809L, C++23, Bash and Python.
 
 My projects focus on a few things:
 - Creating tools that benefit others (e.g. ArtixForge)
-- Creating solutions for my own issues (CAGT, Filament)
+- Creating solutions for my own issues (CAGT, Filament, Ivo)
 
 I am currently actively developing several projects, both public and private.
 
